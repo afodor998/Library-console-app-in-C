@@ -1,0 +1,11 @@
+#ifndef STUDENTMANAGEMENTFUNCTIONS_H_INCLUDED
+#define STUDENTMANAGEMENTFUNCTIONS_H_INCLUDED
+
+int addStudent();
+
+int modifyStudent();
+
+int rentedbyStudent();
+
+
+#endif // STUDENTMANAGEMENTFUNCTIONS_H_INCLUDED

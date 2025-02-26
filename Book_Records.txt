@@ -1,0 +1,60 @@
+1;Windows 11 Field Guide;Paul Thurrott;2008;Computers and Programming;0
+2;Functional Programming Made Easier;Charles Scalfani;2010;Computers and Programming;0
+3;Ansible for DevOps;Jeff Geerling;2008;Computers and Programming;0
+4;Introducing EventStorming;Alberto Brandolini;2007;Computers and Programming;0
+5;Thinking with Types;Sandy Maguire;2019;Computers and Programming;0
+6;Jetpack Compose internals;Jorge Castillo;2018;Computers and Programming;0
+7;Algebra-Driven Design;Sandy Maguire;2020;Computers and Programming;0
+8;Software Architecture for Developers;Simon Brown;2018;Computers and Programming;0
+9;Practical FP in Scala;Gabriel Volpe;2021;Computers and Programming;0
+10;Kotlin Coroutines;Marcin Moskała;2021;Computers and Programming;0
+11;New Headway;John Soars;2014;Language;0
+12;English for Everyone;Tom Booth;2022;Language ;0
+13;PONS Shake a leg;Brian Brennan;2020;Language;0
+14;English File;Christina Latham;2020;Language;0
+15;First Trainer;Peter May;2015;Language;0
+16;Complete New Testament;Gavin Betts;2010;Language;0
+17;Project;Tom Hutchinson;2010;Language;0
+18;Click On Starter;Virginia Evans;2003;Language;0
+19;Skill Zone;Ben Wetz;2003;Language;0
+20;Cutting Edge;Frances Eales;2001;Language;0
+21;The Golden Bull of Hungary;Zsoldos Attila;2022;History;0
+22;The Splendid and the Vile;Eric Larson;2021;History;0
+23;A Frontline of Espionage;Dieter Bacher;2021;History;0
+24;Bloody Vienna Kamen;Kamen Nevenkin;2020;History;0
+25;From Bessarabia to Belgrade;Kamen Nevenkin;2020;History;0
+26;Last Stop Auschwitz;Eddy de Wind;2020;History;0
+27;The Art of War;Sun Tzu;2020;History;0
+28;One Giant;Charles Fishman;2019;History;0
+29;Transylvania;Colin Swatridge;2018;History;0
+30;Attila the Hun;John Man;2006;History;0
+31;The Tender;Bar Moehringer;2021;Biography;0
+32;My Father is a Book;Janna Malamud Smith;2006;Biography;0
+33;An Autobiography;Agatha Christie;1977;Literature;0
+34;Rozewicz;Henryk Vogler;1973;Literature;0
+35;White Bret;Easton Ellis;2019;Biography;0
+36;Educated;Tara Westover;2018;Biography;0
+37;On Writing;Stephen King;2016;Biography;0
+38;Manhood for Amateurs;Michael Chabon;2009;Biography;0
+39;Shakespeare;Bill Bryson;2008;Biography;0
+40;The Essential Hemingway;Ernest Hemingway;1999;Biography;0
+41;The Gospel of the Eels;Patrik Svensson;2021;Science and Nature;0
+42;Brief Answers to the Big Questions;Stephen Hawking;2020;Science and Nature;0
+43;The Uninhabitable Earth;David Wallace;2019;Science and Nature;0
+44;Basic Principles of Public Health;Tompa Anna;2008;Science and Nature;0
+45;Molecules and Medicine;Elsies James Corey;2007;Science and Nature;0
+46;Magnificence Everywhere;Harun Yahya;2002;Science and Nature;0
+47;The Galapagos Islands;Pierre Constant;2000;Science and Nature;0
+48;Wild;Peter Apps;1992;Science and Nature;0
+49;Rainforest Destruction;Destruction Tony Hare;1990;Science and Nature;0
+50;The Secret Forest of Dean;Fay Godwin;1986;Science and Nature;0
+51;Magic Stories of Unicorns;María Forero;2022;Youth Literature;0
+52;Diary of a Wimpy Kid;Jeff Kinney;2022;Youth Literature;0
+53;The Paul Street Boys;Molnar Ferenc;2019;Youth Literature;0
+54;Lassie Come Home;Eric Knight;2016;Youth Literature;0
+55;The Adventures of Tom Sawyer;Mark Twain;2011;Youth Literature;0
+56;A Journey to the Center of the Earth;Jules Verne;2000;Youth Literature;0
+57;Black Beauty;Anna Sewell;1999;Youth Literature;0
+58;The Secret Garden Frances;Hodgson Burnett;2021;Youth Literature;0
+59;The Wizard of Oz L.;Frank Baum;2019;Youth Literature;0
+60;Beauty and the Beast;Jennifer Donnelly;2017;Youth Literature;0
